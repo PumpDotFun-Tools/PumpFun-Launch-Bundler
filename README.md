@@ -4,8 +4,6 @@ Welcome to **Pump.Fun Launch Bundle Tool** - the ultimate solution for maximizin
 
 This tool offers the best, fastest, and most efficient self-bundling scripts, enabling you to create a pool with your own 25 buyers in one single bundle.
 
-# PRICE: FREE!
-
 **Other tools**
 - Volume Maker JITO/Non-JITO
 - Pump Fun Bumper (Stay on top of page consistently)
